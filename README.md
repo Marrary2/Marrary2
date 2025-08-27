@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Best Technologies
 
-[Skills](https://api.devicons.dev.br/icon?icons=JavaScript%2CTypeScript%2CPython%2CPandas%2CSciKitLearn%2CPyTorch%2CTensorFlow%2CFastAPI%2CGoLang%2CDocker%2CKubernetes%2CAWS&size=50&theme=dark&perline=12)
+[Skills](https://api.devicons.dev.br/icon?icons=JavaScript,TypeScript,Python,Pandas,SciKitLearn,PyTorch,TensorFlow,FastAPI,GoLang,Docker,Kubernetes,AWS&size=50&theme=dark&perline=12)
 
 ### Contacts
 
