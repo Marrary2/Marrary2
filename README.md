@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="[(https://imgur.com/a/t3uB7ot)](https://i.imgur.com/GezmF3I.jpeg)" width="100%" alt="Mission Banner"/>
+  <img src="https://i.imgur.com/GezmF3I.jpeg" width="100%" alt="Mission Banner"/>
 </div>
 
 <br>
