@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://i.imgur.com/SEU_BANNER_AQUI.png" width="100%" alt="Mission Banner"/>
+  <img src="https://i.imgur.com/S[EU_BANNER_AQUI.png](https://imgur.com/a/t3uB7ot)" width="100%" alt="Mission Banner"/>
 </div>
 
 
