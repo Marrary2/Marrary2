@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### Best Technologies
 
-![Skills](https://api.devicons.dev.br/icon?icons=TypeScript,Python,Pandas,SciKitLearn,PyTorch,TensorFlow,FastAPI,GoLang,Docker,Kubernetes,AWS&size=30&theme=dark&perline=12)
+![Skills](https://api.devicons.dev.br/icon?icons=TypeScript,Python,Pandas,SciKitLearn,PyTorch,TensorFlow,FastAPI,GoLang,Docker,Kubernetes,AWS&size=40&theme=dark&perline=12)
 
 ### Contacts
 
